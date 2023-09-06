@@ -48,7 +48,5 @@
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoHarder&langs_count=10&layout=default&card_width=699&hide_border=true&theme=transparent" /> -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoHarder&langs_count=10&layout=default&hide_border=true&theme=transparent" />
-
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 
